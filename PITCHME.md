@@ -6,7 +6,7 @@
 그럼 이만...
 ---
 # 윤지녕
-<img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D" width="100" height="200" >
+<img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D" width="300" height="500" > <br></br>
 별명 : 여포 <br></br>
 성격 : 수줍 <br></br>
 연말계획 : 가족행사
@@ -19,8 +19,8 @@
 팀원 사진
 연말계획: 책 읽고, 영화보고, 새해 계획 세우고, 파이썬 공부하기
 ---
-# 김민주
-
-별명: 보노보노<br>
-성격: 우유부단<br>
+# 슬라이드 5
+이름: 김민주
+별명: 보노보노
+성격: 우유부단
 연말계획: 친구만나기
