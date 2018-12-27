@@ -5,7 +5,7 @@
 # 슬라이드 2
 그럼 이만...
 ---
-# 윤지녕
+## 윤지녕
 <img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D" width="300" height="500" > <br></br>
 별명 : 여포 <br></br>
 성격 : 수줍 <br></br>
