@@ -1,3 +1,111 @@
----
-layout: home
----
+<!DOCTYPE html>
+
+<head>
+	<meta charset="utf-8">
+	<title>index</title>
+	<script src="JAVAscript/calendar.js"></script>
+		<script src="JAVAscript/main.js"></script>
+</head>
+<body onload="calc();">
+	<div id="cal">
+		<table style="margin: 0 auto;">
+			<tbody>
+				<tr>
+					<td>Sun</td>
+					<td>Mon</td>
+					<td>Tue</td>
+					<td>Wed</td>
+					<td>Thu</td>
+					<td>Fri</td>
+					<td>Sat</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td></td>
+					<td id="day">1</td>
+				</tr>
+				<tr>
+					<td id="day">2</td>
+					<td id="day">3</td>
+					<td id="day">4</td>
+					<td id="day">5</td>
+					<td id="day">6</td>
+					<td id="day">7</td>
+					<td id="day">8</td>
+			</tr>
+				<tr>
+					<td id="day">9</td>
+					<td id="day">10</td>
+					<td id="day">11</td>
+					<td id="day">12</td>
+					<td id="day">13</td>
+					<td id="day">14</td>
+					<td id="day">15</td>
+				</tr>
+				<tr>
+					<td id="day">16</td>
+					<td id="day">17</td>
+					<td id="day">18</td>
+					<td id="day">19</td>
+					<td id="day">20</td>
+						<td id="day">21</td>
+					<td id="day">22</td>
+				</tr>
+				<tr>
+					<td id="day">23</td>
+					<td id="day">24</td>
+					<td id="day">25</td>
+					<td id="day">26</td>
+					<td id="day">27</td>
+					<td id="day">28</td>
+					<td id="day">29</td>
+				</tr>
+				<tr>
+					<td id="day">30</td>
+					<td id="day">31</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<nav>
+		<ul>
+			<li><a href="https://www.naver.com"target="_black">네이버</a>
+			<li><a href="https://www.google.com"target="_black">구글</a></li>
+			<li><a href="https://www.daum.com"target="_black">다음</a></li>
+			<li><a href="https://www.github.com"target="_black">git</a></li>
+			<li><a href="https://www.swexpertacademy.com/main/main.do"target="_black">swea</a></li>
+			<li><a href="https://edu.ssafy.com/comm/login/SecurityLoginForm.do"target="_black">ssafy</a></li>
+			<li><a href="https://wikidocs.net"target="_black">위키독스</a></li>
+			<li><a href="https://c9.io/"target="_black">c9</a></ul></li>
+	
+	</nav>
+	<form action="/google"target="_blank">
+	    구글 검색 : <input type="text" name="Search">
+    <input type="submit" value="검색"><br>
+    
+    </form>
+    <form action="/naver"target="_blank">
+	    네이버 검색 : <input type="text" name="Search">
+    <input type="submit" value="검색"><br>
+    </form>
+    <form action="/daum"target="_blank">
+	    다음 검색 : <input type="text" name="Search">
+    <input type="submit" value="검색"><br>
+    </form>
+    <form action="/baidu"target="_blank">
+	    바이두 검색 : <input type="text" name="Search">
+    <input type="submit" value="검색"><br>
+    </form>
+    
+    <form action="/get_lotto">
+	    로또 회차 당첨 번호 검색 : <input type="text" name="turn">
+    	<input type="submit" value="검색">
+	</form>
+		
+
+</body>
