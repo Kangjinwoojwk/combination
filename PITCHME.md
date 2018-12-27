@@ -3,7 +3,7 @@
 안녕하세요, 반갑습니다.
 ---
 ## 강진우
-<img src="https://postfiles.pstatic.net/MjAxODEyMjdfMjI0/MDAxNTQ1ODkzMDE2NDU4.8RF8sZG_o_y6B8RIXpfGW4WdQbzYv24H4r-Ed9mtRHIg.BYj2bEHxQQdDDvDNFhLY3jeI12hEArbUTu5sNKbvECcg.JPEG.kjw03230/20181224_180454_788.jpg?type=w773" width="200" height="300" >
+<img src="https://vignette.wikia.nocookie.net/supernatural/images/a/a2/Lucifer_in_Nick.jpeg/revision/latest?cb=20160402004724" width="500" height="300" >
 <p><font size="3pt"> 별명 : 악마 </font></p>
 <p><font size="3pt">성격 : 이 모양 </font></p>
 <p><font size="3pt">연말계획 : 깃헙 공부 </font></p>
@@ -19,7 +19,7 @@
 <p><img src="http://bookmetro.kr/wp-content/uploads/2017/05/DSC09610.jpg" width="450" height="300" ></p>
 <p><font size="3pt">별명 : 만두</font></p>
 <p><font size="3pt">성격 : 차갑지만 따듯한 도시여자</font></p>
-<p><font size="3pt">연말계획 : 책 읽기, 영화 보기, 2019 계획 세우기, 파이썬 공부하기</font></p>
+<p><font size="3pt">연말계획: 책 읽기, 영화 보기, 2019 계획 세우기, 파이썬 공부하기</font></p>
 
 ---
 ## 김민주
