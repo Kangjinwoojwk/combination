@@ -20,7 +20,7 @@
 
 ---
 # 김민주
-<img src="http://mblogthumb3.phinf.naver.net/20160620_162/qkdwldus2_1466430489841Ydq9F_PNG/dd.png?type=w2">
-별명: 보노보노
-성격: 우유부단
-연말계획: 친구만나기
+<img src="http://mblogthumb3.phinf.naver.net/20160620_162/qkdwldus2_1466430489841Ydq9F_PNG/dd.png?type=w2"> <br></br>
+<p><font size="3pt">별명: 보노보노</font></p>
+<p><font size="3pt">성격: 우유부단</font></p>
+<p><font size="3pt">연말계획: 친구만나기</font></p>
