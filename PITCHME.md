@@ -12,7 +12,7 @@
 <p><font size="3pt">연말계획 : 가족행사 </font></p>
 
 ---
-# 이아름
+## 이아름
 <img src="http://bookmetro.kr/wp-content/uploads/2017/05/DSC09610.jpg" width="500" height="300" > <br></br>
 <p><font size="3pt">별명 : 만두</font></p>
 <p><font size="3pt">성격 : 차갑지만 따듯한 도시여자</font></p>
