@@ -7,8 +7,8 @@
 ---
 # 윤지녕
 <img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D">
-별명 : 여포
-성격 : 수줍
+별명 : 여포 <br></br>
+성격 : 수줍 <br></br>
 연말계획 : 가족행사
 
 ---
