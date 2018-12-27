@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "combination."
 url                      : "https://Kangjinwoojwk.github.io" # the base hostname & protocol for your site e.g. 
-baseurl                  : "/combination"  # the subpath of your site, e.g. 
+baseurl                  : "combination"  # the subpath of your site, e.g. 
 repository               : # Kangjinwoojwk/combination 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
