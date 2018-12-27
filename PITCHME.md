@@ -19,7 +19,7 @@
 <p><font size="3pt">연말계획: 책 읽고, 영화보고, 새해 계획 세우고, 파이썬 공부하기</font></p>
 
 ---
-# 김민주
+## 김민주
 <img src="http://mblogthumb3.phinf.naver.net/20160620_162/qkdwldus2_1466430489841Ydq9F_PNG/dd.png?type=w2"> <br></br>
 <p><font size="3pt">별명: 보노보노</font></p>
 <p><font size="3pt">성격: 우유부단</font></p>
