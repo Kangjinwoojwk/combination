@@ -13,7 +13,7 @@
 
 ---
 # 이아름
-<img src="http://bookmetro.kr/wp-content/uploads/2017/05/DSC09610.jpg" width="200" height="300" > <br></br>
+<img src="http://bookmetro.kr/wp-content/uploads/2017/05/DSC09610.jpg" width="500" height="300" > <br></br>
 <p><font size="3pt">별명 : 만두</font></p>
 <p><font size="3pt">성격 : 차갑지만 따듯한 도시여자</font></p>
 <p><font size="3pt">연말계획: 책 읽고, 영화보고, 새해 계획 세우고, 파이썬 공부하기</font></p>
