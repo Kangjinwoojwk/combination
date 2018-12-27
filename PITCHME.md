@@ -6,7 +6,7 @@
 그럼 이만...
 ---
 # 윤지녕
-<img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D", width="100",height="200" >
+<img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D" width="100" height="200" >
 별명 : 여포 <br></br>
 성격 : 수줍 <br></br>
 연말계획 : 가족행사
