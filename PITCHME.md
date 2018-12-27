@@ -7,9 +7,9 @@
 ---
 # 윤지녕
 <img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D" width="200" height="300">
-<p> 별명 : 여포 </p>
-<p> 성격 : 수줍 </p>
-<p> 연말계획 : 가족행사 <p>
+<p><font size="7pt"> 별명 : 여포 </font> </p>
+<p><font size="7pt"> 성격 : 수줍 </font> </p>
+<p><fonr size="7pt"> 연말계획 : 가족행사 </font> <p>
 
 ---
 # 이아름
