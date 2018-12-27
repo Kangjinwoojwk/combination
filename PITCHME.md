@@ -6,10 +6,10 @@
 그럼 이만...
 ---
 # 윤지녕
-<img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D">
-별명 : 여포 <br></br>
-성격 : 수줍 <br></br>
-연말계획 : 가족행사
+<img src="https://t1.daumcdn.net/cfile/tistory/196669494FB46B080D" width="200" height="300">
+<p> 별명 : 여포 </p>
+<p> 성격 : 수줍 </p>
+<p> 연말계획 : 가족행사 <p>
 
 ---
 # 이아름
